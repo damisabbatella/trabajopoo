@@ -8,22 +8,22 @@
 		
 		//métodos.
 		public function prec_metodo(prec){
-		 this->precio=$prec
+		 this->precio=$prec;
 
 
 		}
 		public function pag_metodo(pag){
-		 this->paginas=$pag
+		 this->paginas=$pag;
 
 
 		}
 		public function host_metodo(host){
-		 this->hosting=$host
+		 this->hosting=$host;
 
 
 		}
 		public function soport_metodo(soport){
-		 this->soporte=$soport
+		 this->soporte=$soport;
 
 
 		}
