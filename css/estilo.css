@@ -1,0 +1,25 @@
+html{
+	font-size: 19px;
+}
+body{
+	background-color: #f9f9f9;
+	color: black;
+}
+.cf{
+	background-color: black;
+}
+.bg-blanco{
+	background-color: #3635ff!important;
+}
+.bg-gris{
+	background-color: #bec1ff!important;
+}
+.text-black{
+	color:black!important;
+}
+.bg-black{
+	background-color: black!important;
+}
+table{
+	background-color: rgba(175, 175, 175, 0.47);
+}
